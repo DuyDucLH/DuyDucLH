@@ -7,10 +7,8 @@
   </a>
 </div>
 
-<a href="https://github.com/DuyDucLH/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="DuyDucLH's github stats" /></a>
-<a href="https://github.com/DuyDucLH/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&theme=buefy&hide_border=true" /></a> 
+| <a href="https://github.com/DuyDucLH/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="DuyDucLH's github stats" /></a> | <a href="https://github.com/DuyDucLH/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![](https://hit.yhype.me/github/profile?user_id=117431803)
 ![](https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=People+Who+Found+Me)
