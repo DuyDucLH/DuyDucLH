@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="right">
 ![](https://hit.yhype.me/github/profile?user_id=117431803)
-![](https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=People+Who+Found+Me)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=People+Who+Found+Me" />
 </p>
