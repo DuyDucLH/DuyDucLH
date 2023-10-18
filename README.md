@@ -7,16 +7,16 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/DuyDucLH/github-readme-stats">
+  <a href="https://github.com/DuyDucLH/github-readme-stats#gh-light-mode-only">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=buefy#gh-light-mode-only" alt="DuyDucLH's github stats" />
   </a>
-  <a href="https://github.com/DuyDucLH/github-readme-stats">
+  <a href="https://github.com/DuyDucLH/github-readme-stats#gh-light-mode-only">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&theme=buefy#gh-light-mode-only" />
   </a>
-  <a href="https://github.com/DuyDucLH/github-readme-stats">
+  <a href="https://github.com/DuyDucLH/github-readme-stats#gh-dark-mode-only">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=tokyonight#gh-dark-mode-only" alt="DuyDucLH's github stats" />
   </a>
-  <a href="https://github.com/DuyDucLH/github-readme-stats">
+  <a href="https://github.com/DuyDucLH/github-readme-stats#gh-dark-mode-only">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&theme=tokyonight#gh-dark-mode-only" />
   </a>
 </p>
