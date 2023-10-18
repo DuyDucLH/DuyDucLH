@@ -8,10 +8,10 @@
 </div>
 
 <a href="https://github.com/DuyDucLH/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&custom_title=My+Github+Stats&hide=stars,issues&show_icons=true&rank_icon=github&line_height=32" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/DuyDucLH/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&langs_count=10&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&langs_count=10" />
 </a>
 
 
