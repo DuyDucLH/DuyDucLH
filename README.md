@@ -22,6 +22,19 @@
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=117431803)
+<!--<p align="center">
+  <a href="mailto: duyduc.luonghuu@gmail.com">
+   <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duyduc.luonghuu@gmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+   <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+  </a>
+   <a href="https://twitter.com/ritikhere307">
+   <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+  </a>
+</p>-->
+
 <p align="right">
+  <!--<img src="https://hit.yhype.me/github/profile?user_id=117431803" />-->
   <img src="https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=People+Who+Found+Me" />
 </p>
