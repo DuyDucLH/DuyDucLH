@@ -7,13 +7,14 @@
   </a>
 </div>
 
+<div>
 <a href="https://github.com/DuyDucLH/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&show_icons=true&rank_icon=github" />
+  <img height="200" width="506" align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/DuyDucLH/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&langs_count=10" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&langs_count=10&card_width=320" />
 </a>
-
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=117431803)
 ![](https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=People+Who+Found+Me)
