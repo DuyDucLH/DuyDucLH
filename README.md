@@ -8,10 +8,10 @@
 </p>
 <p align="center">
 <a href="https://github.com/DuyDucLH/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=buefy&line_height=27" alt="DuyDucLH's github stats" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=DuyDucLH&&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=buefy" alt="DuyDucLH's github stats" />
 </a>
   <a href="https://github.com/DuyDucLH/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&theme=buefy" />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDucLH&layout=compact&theme=buefy" />
   </a>
 </p>
 
