@@ -36,5 +36,5 @@
 
 <p align="right">
   <!--<img src="https://hit.yhype.me/github/profile?user_id=117431803" />-->
-  <img src="https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=People+Who+Found+Me" />
+  <img src="https://komarev.com/ghpvc/?username=DuyDucLH&style=plastic&label=Who+See+Me" />
 </p>
