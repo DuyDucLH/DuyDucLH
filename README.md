@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuyDucLH (a.k.a @DuyDuc94)
-- Press <kbd>F</kbd> to fuck yourself
+<!--- Press <kbd>F</kbd> to fuck yourself-->
 <br>
 <p align="center">
   <a href="https://app.daily.dev/duyduc94">
