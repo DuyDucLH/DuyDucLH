@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DuyDucLH (a.k.a @DuyDuc94)
+- My main github: <a href="https://github.com/DuyDuc94">DuyDuc94</a>
 <!--- Press <kbd>F</kbd> to fuck yourself-->
 <br>
 <p align="center">
